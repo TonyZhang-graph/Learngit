@@ -2,6 +2,6 @@ new Hello!
 new line!
 my name is tony
 
-some change
+some CHANGE
 
 I have created a distributed repository!
